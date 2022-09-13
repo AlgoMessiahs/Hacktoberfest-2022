@@ -17,11 +17,11 @@ Steps to Follow while Sending PR Request
 
 4. Host Your Website on Github for Refernece https://gist.github.com/TylerFisher/6127328
 
-5. Submit your Website link in the Submission Folder following below steps : 
+5. Submit your Website link by creating New file in the Repository and following below steps : 
 
       👉 Name of the file: your_github_username.html
       👉 Inside the file, paste your Website URL. 
       👉 Send a Pull Request to main branch
 
-Now just wait for PR to get merged :D That's it, folks!
+Now just wait for PR to get merged  That's it, folks!
       
